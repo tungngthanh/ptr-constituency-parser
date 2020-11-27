@@ -1,0 +1,1 @@
+{'model_architecture':['mix_attention_external_embedding'],'epochs': [200],'tunning_tag':[4],'batch_size': [16], 'eval_interval': [600],'learning_rate':[0.00005],'num_layers':[2]}
